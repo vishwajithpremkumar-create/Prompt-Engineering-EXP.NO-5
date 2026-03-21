@@ -14,3 +14,4 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 OUTPUT:
 
 RESULT: 
+Analysis of different types of prompting pattern is done and explained with various test scenarios.
